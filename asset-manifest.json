@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fake-tweet-generator/static/css/main.f0a6748a.css",
+    "main.js": "/fake-tweet-generator/static/js/main.c0420785.js",
+    "index.html": "/fake-tweet-generator/index.html",
+    "main.f0a6748a.css.map": "/fake-tweet-generator/static/css/main.f0a6748a.css.map",
+    "main.c0420785.js.map": "/fake-tweet-generator/static/js/main.c0420785.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0a6748a.css",
+    "static/js/main.c0420785.js"
+  ]
+}
