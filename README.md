@@ -1,4 +1,4 @@
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-my18xm)
+[Build on StackBlitz ⚡️](https://stackblitz.com)
 
 Live Demo ==> https://duzgunberke.github.io/fake-tweet-generator/
 
